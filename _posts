@@ -1,0 +1,12 @@
+---
+layout: post
+title: "첫 번째 포스팅: 사진과 영상 올리기"
+date: 2026-03-12
+---
+
+### 1. 사진 올리기
+![내 사진](/lil_avanggardyu/assets/images/my_photo.jpg)
+
+### 2. 유튜브 영상 올리기
+유튜브 '공유' -> '퍼가기' 코드를 그대로 붙여넣으면 됩니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/영상아이디" frameborder="0" allowfullscreen></iframe>
