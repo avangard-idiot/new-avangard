@@ -1,0 +1,7 @@
+title: 아방가르드 유현민 블로그
+baseurl: "/lil_avanggardyu"
+url: "https://avangard-idiot.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
